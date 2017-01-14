@@ -1,0 +1,15 @@
+@font-face {
+	font-family: "DancingScript-Regular";
+	src: url(../fuente/DancingScript-Regular.otf);
+	src: url(../fuente/dancing-script.Regular.ttf);
+}
+
+a {
+	font-family: "DancingScript-Regular";
+	text-shadow: 2px 2px #02010a;
+}
+
+p , h2, h3 {
+	font-family: "DancingScript-Regular";
+	
+}
