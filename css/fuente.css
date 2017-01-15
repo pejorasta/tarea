@@ -18,3 +18,7 @@ p , h2, h3 {
 color: red;
 font-size: 1.6em;
 }
+
+img {
+	box-shadow: 2px 2px #02010a;
+}
