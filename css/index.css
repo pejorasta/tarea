@@ -204,6 +204,40 @@ width: 100%;
 	font-size: 1.4em;
 }
 
+.container {
+	width: 100%;
+}
+
+
+
+.second {
+	width: 100%;
+	display: block;
+	background: #d5c75f;
+}
+
+.uno {
+	width: 100%;
+	padding: 2%;
+	
+}
+
+.uno img {
+	border: black solid 1px;
+	width: 95%;
+}
+
+
+
+.dos {
+	width: 100%;
+	padding: 2%;
+}
+
+.dos img{
+border: black solid 1px;
+width: 95%;
+}
 
 .footer {
 	height: none;
